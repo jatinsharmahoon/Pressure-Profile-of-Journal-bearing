@@ -1,0 +1,7 @@
+# MATLAB temporary and autosave files
+*.asv
+*.mat
+*.fig
+
+# Figure exports
+*.log
